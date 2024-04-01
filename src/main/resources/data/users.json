@@ -1,0 +1,92 @@
+[
+  {
+    "name": "John Doe",
+    "gender": "Male",
+    "country": "United States",
+    "pincode": "12345",
+    "email": "johndoe@example.com",
+    "dob": "01/01/1990",
+    "phone": "1234567890"
+  },
+  {
+    "name": "Jane Smith",
+    "gender": "Female",
+    "country": "United Kingdom",
+    "pincode": "54321",
+    "email": "janesmith@example.com",
+    "dob": "02/02/1995",
+    "phone": "0987654321"
+  },
+  {
+    "name": "Alex Johnson",
+    "gender": "Non-binary",
+    "country": "Canada",
+    "pincode": "67890",
+    "email": "alexjohnson@example.com",
+    "dob": "03/03/1985",
+    "phone": "9876543210"
+  },
+  {
+    "name": "Maria Rodriguez",
+    "gender": "Female",
+    "country": "Spain",
+    "pincode": "13579",
+    "email": "mariarodriguez@example.com",
+    "dob": "04/04/1992",
+    "phone": "1029384756"
+  },
+  {
+    "name": "Hiroshi Tanaka",
+    "gender": "Male",
+    "country": "Japan",
+    "pincode": "97531",
+    "email": "hiroshit@example.com",
+    "dob": "05/05/1988",
+    "phone": "5678901234"
+  },
+  {
+    "name": "Sophie Leclerc",
+    "gender": "Female",
+    "country": "France",
+    "pincode": "24680",
+    "email": "sophieleclerc@example.com",
+    "dob": "06/06/1993",
+    "phone": "5432109876"
+  },
+  {
+    "name": "Luca Rossi",
+    "gender": "Male",
+    "country": "Italy",
+    "pincode": "86420",
+    "email": "lucarossi@example.com",
+    "dob": "07/07/1987",
+    "phone": "6789012345"
+  },
+  {
+    "name": "Lily Chen",
+    "gender": "Female",
+    "country": "China",
+    "pincode": "80246",
+    "email": "lilychen@example.com",
+    "dob": "08/08/1996",
+    "phone": "7654321098"
+  },
+  {
+    "name": "Antonio Gómez",
+    "gender": "Male",
+    "country": "Mexico",
+    "pincode": "97531",
+    "email": "antoniogomez@example.com",
+    "dob": "09/09/1989",
+    "phone": "9012345678"
+  },
+  {
+    "name": "Sofia Petrova",
+    "gender": "Female",
+    "country": "Russia",
+    "pincode": "86420",
+    "email": "sofiapetrova@example.com",
+    "dob": "10/10/1994",
+    "phone": "2345678901"
+  }
+]
